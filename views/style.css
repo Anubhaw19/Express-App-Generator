@@ -1,0 +1,13 @@
+.box{
+    padding: 15px;
+    background-color: blueviolet;
+    margin-top: 10px;
+}
+.height{
+    height: 400px;
+}
+.login_form{
+    padding: 15px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    background-color: cyan;
+}
